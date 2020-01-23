@@ -1,5 +1,11 @@
+#button {
+    background-color:rgb(66, 133, 244);
+    border: none;
+    padding: 4 6 4 6;
+    }
+
 #gmail {
-    margin-left: 65%;
+    margin-left: 75%;
 }
 
 #google-logo {
@@ -7,6 +13,10 @@
     margin-top: 25%;
     margin-left: 38%;
     padding-bottom: 10px;
+  }
+
+  html * {
+      font-family: Arial, Helvetica, sans-serif;
   }
 
 #lucky {
