@@ -1,24 +1,30 @@
+
+header {
+    max-width: 1440px;
+}
+
 #header {
-    
-    justify-content: center;
-    margin-top: 200px;
+   max-width: 1440px;
+   margin-left: 600px;
+   margin-right: 600px;
   }
 
 #lucky {
-    display: inline;
+
     justify-content: center;
     border-radius: 5px;
-
+    
 }
 
 #search-box {
-    display: inline;
+
     justify-content: center;
     border-radius: 5px;
+    margin: auto;
 }
 
 #submit {
-    display: inline;
     justify-content: center;
     border-radius: 5px;
+  
 }
