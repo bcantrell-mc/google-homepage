@@ -1,12 +1,9 @@
 
-header {
-    max-width: 1440px;
-}
 
-#header {
-   max-width: 1440px;
-   margin-left: 600px;
-   margin-right: 600px;
+#google-logo {
+    width: 25%;
+    display: block;
+    margin: auto;
   }
 
 #lucky {
@@ -17,14 +14,12 @@ header {
 }
 
 #search-box {
-
-    justify-content: center;
-    border-radius: 5px;
+    width: 50%;
+    display: block;
     margin: auto;
 }
 
 #submit {
-    justify-content: center;
-    border-radius: 5px;
-  
+    display: block;
+    margin: auto;
 }
